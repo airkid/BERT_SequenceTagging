@@ -1,3 +1,6 @@
+*.tsv
+*.txt*
+
 .idea*
 #data_analysis
 data_analysis/
